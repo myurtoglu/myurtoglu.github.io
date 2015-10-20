@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: About
+  url: /about
+
+- title: Color Figures
+  url: /figures
+
+- title: Errata
+  url: /errata
+
+- title: Q&A
+  url: /qa
+
+- title: Source Code
+  url: /source
+
+- title: Buy
+  url: /buy
