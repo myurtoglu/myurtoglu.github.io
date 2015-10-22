@@ -3,6 +3,12 @@
 - title: About
   url: /about
 
+- title: Source Code
+  url: /source
+
+- title: Buy
+  url: /buy
+
 - title: Color Figures
   url: /figures
 
@@ -11,9 +17,3 @@
 
 - title: Q&A
   url: /qa
-
-- title: Source Code
-  url: /source
-
-- title: Buy
-  url: /buy
