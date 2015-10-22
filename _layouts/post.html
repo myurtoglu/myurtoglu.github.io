@@ -29,9 +29,17 @@
 {% endif %}
 
 <div id="main" role="main">
+ {% if author.avatar %}
   <div class="article-author-side">
-    {% include _author-bio.html %}
+  {% include _author-bio.html %}
   </div>
+ {% endif %}
+ {% if author.rectangular_picture %}
+  <div class="article-author-side-main">
+  {% include _author-bio-main.html %}
+  </div>
+ {% endif %}
+
   <article class="post">
     <div class="headline-wrap">
       {% if page.link %}
